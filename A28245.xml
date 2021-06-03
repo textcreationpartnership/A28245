@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To thee Charls Stuart, King of England, am I moved of the Lord to write and to thee it is the visitation of his love, through him whose travel hath been for thee, that thy soul may be saved in the day of the Lord, therefore hear that thy soul may live, and thy dayes be prolonged in the house of thy pilgrimage.</title>
+            <author>Bishop, George, d. 1668.</author>
+         </titleStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28245</idno><idno type="EEBO-CITATION">12645725</idno>
+  <idno type="VID">65130</idno>
+  <idno type="EEBO-PROQUEST">2248584771</idno>
+  
+            <idno type="STC">Wing B3010</idno>
+            <idno type="STC">ESTC R19357</idno>
+            <idno type="OCLC">12645725</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A28245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65130)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 344:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To thee Charls Stuart, King of England, am I moved of the Lord to write and to thee it is the visitation of his love, through him whose travel hath been for thee, that thy soul may be saved in the day of the Lord, therefore hear that thy soul may live, and thy dayes be prolonged in the house of thy pilgrimage.</title>
+                  <author>Bishop, George, d. 1668.</author>
+                  <author>J. P.</author>
+               </titleStmt>
+               <extent>[3], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Bristol? :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Two letters, the first signed (p. 3): G.B.; the second, with caption "To C.S.K." (p. 4-8), signed: J.P.</note>
+                  <note>Another edition has Bishop's name in full. Cf. NUC pre-1956.</note>
+                  <note>Date and place of publication from Wing.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Pages 3 and 8 have marked print in filmed copy. Entire text photographed from Bodleian Library copy and inserted at the end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:65130:1"/>
+            <pb facs="tcp:65130:1"/>
+            <pb facs="tcp:65130:2"/>
+            <pb n="1" facs="tcp:65130:2"/>
+            <head>TO THEE Charls Stuart KING OF ENGLAND, Am I moved of the Lord to write; and to <hi>Thee</hi> it is the visitation of his love, through him whose travel hath been for <hi>Thee, that Thy soul may be saved in the day of the Lord,</hi> therefore <hi>hear that thy soul may live, and Thy dayes be pro<g ref="char:EOLhyphen"/>longed in the house of Thy Pilgrimage.</hi>
+            </head>
+            <opener>
+               <salute>FRIEND,</salute>
+            </opener>
+            <p>
+               <hi>THou</hi> hast been a man of sufferings, and deep sorrows have past over Thee; The Lord (at length) hath brought Thee into a Land of peace, and set Thee upon Thy Fathers Throne, and bowed the hearts of the people under Thee, so and after such a manner as was beyond the thoughts of Thee, or any, that thus it should be; and now what remaineth, but that Thou love
+<pb n="2" facs="tcp:65130:3"/>the Lord, and fear before him all thy dayes, that it may be well with Thee and Thy posterity after Thee; and for this purpose, that Thou heed his principle in thee, which shews Thee evil, the end and compasse of all Thy actions, the thoughts of Thy heart, and Thy secrets upon thy Bed, that so out of, and from transgression Thou may come, &amp; be led into the Kingdome of God, which consists in righteousnesse, and peace, and joy in the holy Ghost, and the blessing of God may be upon Thee, and peace and rest within Thy borders; for of this Thou art not ignorant as having largely tasted of the Cup, that man suffereth for sin, and that pro<g ref="char:EOLhyphen"/>motion cometh neither from the East, nor from the West, nor from the South, but God is Judge, he putteth down one and setteth up another; who is come to set his King upon his Holy Hill of <hi>Sion,</hi> His principle in man to raign for ever, unto which men shall bring the forces of the Gentiles, and their Kings shall be brought, and the glory of <hi>Le<g ref="char:EOLhyphen"/>banon</hi> shall come, the Firr-Tree, and the Pine-Tree, and the Box-tree (men of all sorts) together to beautifie the place of his Sanctuary, who will make the place of his feet glorious, and the Nation and Kingdom that will not serve it shall perish; yea those Nations shall be utterly wasted, and the sons of those that afflicted it shall come bending unto it, and all those that despised it shall bow themselves down at the soles of its feet, and they shall call it the City of the Lord, the <hi>Sion</hi> of the Holy One of <hi>Israel;</hi> and whereas it hath been for<g ref="char:EOLhyphen"/>saken and hated so that no man passed through it, he will make it an eternal excellency, a joy of ma<g ref="char:EOLhyphen"/>ny
+<pb n="3" facs="tcp:65130:3"/>Generations, it shall also suck the Milk of the Gentiles, and the breasts of Kings, and it shall know that the Lord is its Saviour, and Redeemer, the Mighty one of <hi>Jacob;</hi> in its dayes <hi>Judah</hi> shall be sa<g ref="char:EOLhyphen"/>ved, and <hi>Israel</hi> shall dwell safely, and the name by which it shall be called, is the <hi>Lord our Righteous<g ref="char:EOLhyphen"/>ness,</hi> and it shall no more be said, <hi>the Lord liveth,</hi> which brought the children of <hi>Israel</hi> out of the Land of <hi>Aegypt,</hi> but the Lord liveth which brought up, and which led the seed of the house of <hi>Israel</hi> out of the North Country, and from all Countrys whether the Lord had driven them, and they shall dwell in their own Land, the Lord hath spoken it; and the day is come wherein the Lord hath raised unto <hi>David</hi> a righteous Branch, and a King reigneth and prospers; that executes Justice and Judgement in the earth, whose Domi<g ref="char:EOLhyphen"/>mon is an everlasting Dominion, and his Kingdom that which shall not passe away, in which Thou mayest reign and live for ever. Moved of the Lord God Allmighty, the Maker of Heaven and Earth, who hath seen thy affliction and adversity, and delivered Thee; in much Bowels of love am I thus moved to write,</p>
+            <closer>
+               <signed>Whom the world in scorn calls<lb/>
+                  <hi>Quaker,</hi> but am known by<lb/> the name of<lb/>
+                  <hi>G. B.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="treatise">
+            <pb n="4" facs="tcp:65130:4"/>
+            <head>TO C. S. K.</head>
+            <p>ALthough <hi>Pharoah</hi> the King, said unto <hi>Moses</hi> the Heards-man, <hi>Who is the Lord that I should fear him?</hi> yet the Mighty God which was with the meek Heards-man through many of his sore Judgements, lastly led the presumptuous King with his vast Host to a doleful doom of de<g ref="char:EOLhyphen"/>struction; And the Cryer cryeth, <hi>All flesh is grass, and the glory thereof as the flower of the field,</hi> the which is very changeable, and so are all powers un<g ref="char:EOLhyphen"/>der the Sun, which stand not in the humblenesse and meeknesse, and fear, and righteousnesse, like as <hi>Moses</hi> and <hi>David</hi> did in the power of the Lord God, which rules in the Kingdomes of men, and gi<g ref="char:EOLhyphen"/>veth it unto whomsoever he pleaseth; he hath try<g ref="char:EOLhyphen"/>ed divers, and because of a deficiency in them, hath restored the earthly Scepter unto Thee, who according to the natural seed art heir born unto the same; Wherefore now these things the same God Allmighty looketh for at Thy hands, which thou shalt do with a careful heart before him.</p>
+            <p>Thou shalt hearken unto all his admonitions (which shall be for good unto thee, if Thou lovest them) as did <hi>David</hi> the King unto the reprehen<g ref="char:EOLhyphen"/>sion of <hi>Nathan</hi> the Prophet, and shall fear and re<g ref="char:EOLhyphen"/>pent before him.</p>
+            <p>Thou shalt rule as <hi>Moses</hi> did the <hi>Israel</hi> of
+<pb n="5" facs="tcp:65130:4"/>God, in the righteousness of the Judgment of truth; Thou shalt break every heavy yoak, and let the oppressed goe free in the Land, and be a relief unto the Widdow and to the Orphan, for through the lowing of the oppressed cattel, <hi>my soul is provoked unto jealousie saith the Lord God of judgement.</hi>
+            </p>
+            <p>Thou shalt remember therefore not to strength<g ref="char:EOLhyphen"/>en the hands of sinners and evil doers, <hi>against the innocent to oppresse them, for which cause I am full of jealousie in the Land, even for my remnants sake, saith the Lord God of the whole earth.</hi>
+            </p>
+            <p>Thou shalt look to the Ordinances, Statutes and Laws, that they all may answer that of God in Thy own conscience, that they may not oppress the same measure of God in the consciences of any other; <hi>For it is my seat, saith the Lord of the whole earth, and whosoever seeketh to thrust me out of my seat by a power, him by my power I will thrust out of his seat, saith the Lord God who ruleth in the Kingdoms of men, and giveth it unto whomsoever he pleaseth.</hi>
+            </p>
+            <p>That Thou mayst therefore stand in his pleasure and possesse it; Thou shalt do the thing which is holy, which is pure, which is chast, which is just without respect of persons, which is equal without taking parties, which is righteous unto all, for the sake of the righteousness of God (which we know hath bin revealed injudgment on the unrighteous before thee) which is meek, that thou mayst inhe<g ref="char:EOLhyphen"/>rit the earth; which is merciful, that Thou maist be bound under the Covenant of the everlasting mercy of God in his infinite grace of life immortal; which is humble, yea, in more humility shalt thou
+<pb n="6" facs="tcp:65130:5"/>live before the Almighty God, them have done any of thy progenitors; and lo, then will the Lord ex<g ref="char:EOLhyphen"/>alt thee seavenfold above all them which preceed<g ref="char:EOLhyphen"/>ed thee.</p>
+            <p>Thou shalt meditate the peace of a great people in thy Land and Dominion, and shalt ask wisdome and counsell of the Lord God to rule and to judge the Nation aright.</p>
+            <p>Thou shalt meditate in secret the dreadfull Arm and Allmighty power of the Lord God, with thy whole mind turned into his pure light which shi<g ref="char:EOLhyphen"/>neth in thy conscience, and shalt wait upon the Lord in that single principle of his heavenly grace; thou shalt abide in spirit and mind unto God in the same light within thee, and then will the Lord God abide with thee, for an exceeding good unto thee; but if thou slightest him there, and forsakest him in the light in thy own conscience, then will he also slight thee as the other chaffe before thee, and by his withdrawing make thee as the darknesse of <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> and through an utter forsaking leave thee as the wildernesse of sin.</p>
+            <p>This is the day of thy visitation, saith the Lord God which holdeth Judgment and Mercy; More<g ref="char:EOLhyphen"/>over, hear the word of the Lord God, whose power divideth Nations (which drove <hi>Nebuc hadnezar</hi> the King from his Throne, until seaven times passed o<g ref="char:EOLhyphen"/>ver his head, and that his nails became as birds claws, and his hair like eagles feathers, and that he became to know that the most High reigned in the Kingdomes of men, and giveth it unto whom<g ref="char:EOLhyphen"/>soever he pleaseth) Behold the Seas shall roar, and the earth shall reel, and the Isles shall melt as the morning hoar, and the powers of the earth passe a<g ref="char:EOLhyphen"/>way
+<pb n="7" facs="tcp:65130:5"/>as the early dew, yea, and shall sink as the plum<g ref="char:EOLhyphen"/>met by the wall, and as the leed which is cast to sound the deep, untill he be known to come in the glory and power of his light to reigne, whose right it is; be it known unto thee, that God is light, the light therefore reigning in thee, then he reigns whose right it is, for the earth is the Lords and the fullness thereof is his, unto whose Scepter all Nations shall be subject, whose Kingdome shall be an everlasting Kingdome, and of his dominion there shall be no end.</p>
+            <p>Thou shalt remember with a careful heart to set up such Judges and Rulers in the Realm under thee, which shall do the thing which the Lord God requires of thee to do, <hi>For I will restore unto my people Judges as at the first, and Counsellors as in the beginning, saith the Lord God Allmighty.</hi>
+            </p>
+            <p>Thou shalt often read in the book of the <hi>Chro<g ref="char:EOLhyphen"/>nicles</hi> of the Kings, to know the curse and end of the evil, and the blessing and the Crown of the good; Thou shalt follow the good and eschew the evil, that the evil may be removed from thy door, and the blessing fill thy house, <hi>For the treasures of judgement are with me, saith the God of all power, which created man of the dust of the ground.</hi>
+            </p>
+            <p>Thou shalt watch in the zeale of the Righteous<g ref="char:EOLhyphen"/>ness of God, that thy name be not made a cloak of unjust and oppressive deeds by the wicked, <hi>For which thing I was wroth, saith the Lord, and have rent the dominion from his house which ruled before thee.</hi>
+            </p>
+            <p>Thou shalt remember the Counsell of <hi>Solomon</hi> the wise King to keep it, least in hating reproof, and mocking at the correction and admonitions of the Lord sent by his servants, the same God should
+<pb n="8" facs="tcp:65130:6"/>make thee like unto them who did the same evill, and are now put under thy footstoole; they were well, warned of that which is hap<g ref="char:EOLhyphen"/>ned unto them, whilst they said in their hearts we are in the high seat, and our lot shall never be the swiftnesse of a day of revolution; but we then knew the righteousness of God, though they believed us not, but mocked us, and scorned us, and persecuted us: These things hear, the righteousness do, and the Kings Dominion shall be very glori<g ref="char:EOLhyphen"/>ous, his Throne shall be exalted on high, it shall ring unto the ends of the earth, and spread over many seas, the head of his enemy shall be bruised with his heel, and the Scepter shall be established to his seed, he shall be all glorious within, and his glory shall shine without, re<g ref="char:EOLhyphen"/>mote Nations shall see it afar off, and Kings shall embrace his bright<g ref="char:EOLhyphen"/>ness, his pallace shall be full of pleasure, and his day as the dew to the plant.</p>
+            <p>But Friend, with yearning bowels chiefly for thy prosperity sake, in the Heavenly Power, Dominion and Authority, in the virtue and life of Gods sure word of prophecy, I tell Thee, that except thou beest humble, and meek, &amp; righteous before the Lord, doing the thing (as a faithful Steward) which he requireth of thee, God even the same Lord God will assuredly shew his righteousness on thee, as he did on them which were proud and unjust before Thee. We whom the world in scorn call <hi>Quakers,</hi> are the true Servants of God which wor<g ref="char:EOLhyphen"/>ship the true God in the Spirit, and are members of quietness and peace, wheresoever in any Country or Land, and are Loyally subject to every just Ordinance of the higher power for conscience sake, in which in us God reigneth; and therefore again take heed that thou seeks not to reign in it, in any person, and so become a robber of God of his Throne, to provoke him to bereave Thee of Thine.</p>
+            <p>And this is of a truth the word of the Lord God unto Thee, to be sutably fulfilled according to thy obedience or disobedience of his eternall power. I had a sight of thy restauration, (in the light by which all things is made manifest) more then six months before I heard the first report of the working thereof, and now God hath confirmed it unto me, having fulfilled the same.</p>
+            <p>Finally, as a true and unfeigned lover of thy soul, my heart desireth my Fathers favour, that the good may be thy perpetuall lot, that the Throne and Scepter of righteousness may be established unto Thee, and a holy seed everlastingly after Thee. Written by the Servant of the most High King of Kings, whose earthly subject bears the name of</p>
+            <closer>
+               <signed>J. P.</signed>
+            </closer>
+            <pb facs="tcp:65130:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:65130:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:65130:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:65130:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:65130:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:65130:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:65130:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:65130:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:65130:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
